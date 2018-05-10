@@ -1,6 +1,6 @@
 # Niannan Xue's Homepage
 
-- Data Scientist @ Imperial College London
+I am a PhD student in Imperial College London, supervised by Stefanos Zafeiriou. For the 1st Phd, I was supervised by Yike Guo, but as he is so "GOOD", I change my supervisor. My research is focusing on provably correct non-convex optimisation and stochastic optimal control.
 
 ## Education
 ### Imperial College London
