@@ -2,6 +2,9 @@
 
 I am a PhD student in Imperial College London, supervised by Stefanos Zafeiriou. For the 1st Phd, I was supervised by Yike Guo, but as he is so "GOOD", I change my supervisor. My research is focusing on provably correct non-convex optimisation and stochastic optimal control.
 
+- [linkedin](https://www.linkedin.com/in/niannan-xue-b8661b104/)
+- [dblp](https://dblp.uni-trier.de/pers/hd/x/Xue:Niannan)
+
 ## Education
 ### Imperial College London
 Doctor of Philosophy - PhD, Computer Science
